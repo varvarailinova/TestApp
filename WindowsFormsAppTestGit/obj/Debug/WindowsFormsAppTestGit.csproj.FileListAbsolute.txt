@@ -1,0 +1,10 @@
+C:\гитхаб_2_практика\WindowsFormsAppTestGit\WindowsFormsAppTestGit\bin\Debug\WindowsFormsAppTestGit.exe.config
+C:\гитхаб_2_практика\WindowsFormsAppTestGit\WindowsFormsAppTestGit\bin\Debug\WindowsFormsAppTestGit.exe
+C:\гитхаб_2_практика\WindowsFormsAppTestGit\WindowsFormsAppTestGit\bin\Debug\WindowsFormsAppTestGit.pdb
+C:\гитхаб_2_практика\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.csproj.AssemblyReference.cache
+C:\гитхаб_2_практика\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.Form1.resources
+C:\гитхаб_2_практика\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.Properties.Resources.resources
+C:\гитхаб_2_практика\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.csproj.GenerateResource.cache
+C:\гитхаб_2_практика\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.csproj.CoreCompileInputs.cache
+C:\гитхаб_2_практика\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.exe
+C:\гитхаб_2_практика\WindowsFormsAppTestGit\WindowsFormsAppTestGit\obj\Debug\WindowsFormsAppTestGit.pdb
