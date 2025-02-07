@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\\u0433\u0438\u0442\u0445\u0430\u0431_2_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsAppTestGit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F3D1CDE-BF1B-4D1A-A1A7-C64A7E51499E}|WindowsFormsAppTestGit\\WindowsFormsAppTestGit.csproj|c:\\\u0433\u0438\u0442\u0445\u0430\u0431_2_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\windowsformsapptestgit\\windowsformsapptestgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3D1CDE-BF1B-4D1A-A1A7-C64A7E51499E}|WindowsFormsAppTestGit\\WindowsFormsAppTestGit.csproj|solutionrelative:windowsformsapptestgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F3D1CDE-BF1B-4D1A-A1A7-C64A7E51499E}|WindowsFormsAppTestGit\\WindowsFormsAppTestGit.csproj|c:\\\u0433\u0438\u0442\u0445\u0430\u0431_2_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\windowsformsapptestgit\\windowsformsapptestgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7F3D1CDE-BF1B-4D1A-A1A7-C64A7E51499E}|WindowsFormsAppTestGit\\WindowsFormsAppTestGit.csproj|solutionrelative:windowsformsapptestgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,11 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u0433\u0438\u0442\u0445\u0430\u0431_2_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsAppTestGit\\WindowsFormsAppTestGit\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppTestGit\\Form1.cs",
+              "ToolTip": "C:\\\u0433\u0438\u0442\u0445\u0430\u0431_2_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsAppTestGit\\WindowsFormsAppTestGit\\Form1.cs*",
+              "RelativeToolTip": "WindowsFormsAppTestGit\\Form1.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:17:36.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u0433\u0438\u0442\u0445\u0430\u0431_2_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsAppTestGit\\WindowsFormsAppTestGit\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsAppTestGit\\Form1.cs",
-              "ToolTip": "C:\\\u0433\u0438\u0442\u0445\u0430\u0431_2_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsAppTestGit\\WindowsFormsAppTestGit\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WindowsFormsAppTestGit\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\\u0433\u0438\u0442\u0445\u0430\u0431_2_\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WindowsFormsAppTestGit\\WindowsFormsAppTestGit\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "WindowsFormsAppTestGit\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T11:02:41.439Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
